@@ -15,15 +15,16 @@ Course contents for Machine Learning Methods (MATH 4388/5388 at University of Co
 
 ## Chapter 3: Classification
 - Confusion matrix
-- Precision and Recall 
+- Precision and recall 
 - F1 score
 - Precision/recall curve
 - Receiver Operating Characteristic (ROC) curve 
+- Multiclass classification
 
 ## Chapter 4: Training Models 
 - Linear regression: Problem formulation, assumption, loss function, gradient
 - Normal equation
-- Sklearn implementation
+- Scikit-learn implementation
 - Evaluation metrics
 - Gradient descent (GD) and variants
 - Nonlinear extension and regularization 
