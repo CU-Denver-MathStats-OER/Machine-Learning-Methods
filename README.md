@@ -37,3 +37,8 @@ Course contents for Machine Learning Methods (MATH 4388/5388 at University of Co
 ## Chapter 7
 
 ## Chapter 8
+
+## Chapter 9
+- K-means clustering
+- DBSCAN
+- Gaussian mixture model
